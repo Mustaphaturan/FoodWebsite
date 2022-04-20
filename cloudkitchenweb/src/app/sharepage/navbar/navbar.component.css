@@ -1,0 +1,28 @@
+
+.navbar-nav 
+
+
+
+.nav-link.active-link
+
+ {
+    
+      color:rgb(255, 217, 0);;
+      font-weight: bold;
+  
+      text-decoration:underline;
+
+    
+ 
+      
+      
+
+      
+  }
+  .navbar-brand {
+      color: var(--primary-color);
+  
+    font-weight: bolder;
+   
+  }
+ 
